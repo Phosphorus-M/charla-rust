@@ -1,0 +1,1 @@
+# Código utilizado durante la charla de Rust 2021
